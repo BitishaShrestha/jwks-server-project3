@@ -1,0 +1,7 @@
+flask
+pyjwt
+cryptography
+pytest
+pytest-cov
+flake8
+argon2-cffi
